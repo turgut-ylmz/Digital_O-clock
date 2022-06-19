@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+p {
+    margin-left: 17%;
+    padding-left: 17%;
+    margin-top: 20%;
+    margin-bottom: 25%;
+    font-size: 65px; 
+    color: rgb(29, 216, 23);
+}
